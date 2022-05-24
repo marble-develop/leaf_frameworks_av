@@ -65,6 +65,8 @@
 #include <media/stagefright/omx/OMXUtils.h>
 #include "TableXInit.h"
 
+#include <server_configurable_flags/get_flags.h>
+
 namespace android {
 
 typedef hardware::media::omx::V1_0::IGraphicBufferSource HGraphicBufferSource;
