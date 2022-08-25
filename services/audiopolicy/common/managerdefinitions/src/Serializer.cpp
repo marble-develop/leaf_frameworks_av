@@ -26,6 +26,7 @@
 #include <libxml/xinclude.h>
 #include <media/convert.h>
 #include <cutils/properties.h>
+#include <system/audio.h>
 #include <utils/Log.h>
 #include <utils/StrongPointer.h>
 #include <utils/Errors.h>
